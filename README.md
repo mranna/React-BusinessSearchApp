@@ -1,7 +1,7 @@
 # React-BusinessSearchApp
 A simple react native application to find local restaurants based on the user's search.
 
-![alt text](https://github.com/mranna/React-BusinessSearchApp/blob/master/Screenshot/IMG_9065.png?raw=true)
+![alt text](https://github.com/mranna/React-BusinessSearchApp/blob/master/Screenshot/IMG_9065.PNG?raw=true)
 
 Platform: Android or iOS (React Native)
 
